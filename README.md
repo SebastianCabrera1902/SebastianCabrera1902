@@ -23,9 +23,10 @@
 ### Proyectos
 <div align="center">
 <a href="https://github.com/SebastianCabrera1902/utn-conecta">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianCabrera1902&repo=sistema-comercial&theme=tokyonight&v=2" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianCabrera1902&repo=utn-conecta&theme=tokyonight&v=2" />
+</a>
 <a href="https://github.com/SebastianCabrera1902/sistema-comercial">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianCabrera1902&repo=sistema-comercial&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianCabrera1902&repo=sistema-comercial&theme=tokyonight&v=2" />
 </a>
 </div>
 
@@ -34,7 +35,7 @@
 
 ### Estadísticas
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SebastianCabrera1902&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=SebastianCabrera1902&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=tokyonight" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianCabrera1902&layout=compact&theme=tokyonight" height="150" />
 </div>
 
