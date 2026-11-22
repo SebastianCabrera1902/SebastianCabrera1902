@@ -30,3 +30,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=SebastianCabrera1902&show_icons=true&theme=tokyonight" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianCabrera1902&layout=compact&theme=tokyonight" height="150" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SebastianCabrera1902/SebastianCabrera1902/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/SebastianCabrera1902/SebastianCabrera1902/output/github-snake.svg" />
+</picture>
