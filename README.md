@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=170&section=header&text=Sebastián%20Cabrera&fontColor=ffffff&fontSize=42&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=170&section=header&text=Sebasti%C3%A1n%20Cabrera&fontColor=ffffff&fontSize=42&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=520&lines=Estudiante+de+Programación+·+UTN+FRT;Camino+a+DevOps+.NET;C%23+·+.NET+·+TypeScript+·+SQL" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=520&lines=Estudiante+de+Programaci%C3%B3n+en+UTN+FRT;Camino+a+DevOps+.NET;C%23+%7C+.NET+%7C+TypeScript+%7C+SQL" />
 
 <a href="https://www.linkedin.com/in/fernando-sebastian-cabrera-a1499a222/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:cabrerafernandosebastian20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -12,7 +12,7 @@
 ### Sobre mí
 - Estudio la Tecnicatura Universitaria en Programación en la UTN FRT (Tucumán).
 - Me interesa el backend con .NET y la automatización: integración continua, despliegues y la nube.
-- Ahora estoy aprendiendo Docker, y Azure.
+- Ahora estoy aprendiendo Docker y Azure.
 
 ### Stack
 <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,nodejs,sqlite,git,github,vscode" />
