@@ -23,8 +23,7 @@
 ### Proyectos
 <div align="center">
 <a href="https://github.com/SebastianCabrera1902/utn-conecta">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianCabrera1902&repo=utn-conecta&theme=tokyonight" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianCabrera1902&repo=sistema-comercial&theme=tokyonight&v=2" /></a>
 <a href="https://github.com/SebastianCabrera1902/sistema-comercial">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianCabrera1902&repo=sistema-comercial&theme=tokyonight" />
 </a>
