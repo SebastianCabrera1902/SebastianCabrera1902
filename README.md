@@ -12,8 +12,7 @@
 ### Sobre mí
 - Estudio la Tecnicatura Universitaria en Programación en la UTN FRT (Tucumán).
 - Desarrollo backend con .NET y me interesa construir sistemas seguros: autenticación, permisos y validación de datos.
-- Me formé como analista SOC: monitoreo, detección y respuesta a incidentes de seguridad.
-
+- Me estoy formando como analista SOC: monitoreo, detección y respuesta a incidentes de seguridad.
 ### Stack
 <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,nodejs,postgres,git,github,vscode" />
 
@@ -25,8 +24,7 @@
 <img src="https://img.shields.io/badge/🌐_Redes-2c5364?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🔎_OSINT-1f6feb?style=for-the-badge" />
 
-- **CyberOps Associate (Analista SOC)** — Cisco Networking Academy. Monitoreo de seguridad, análisis de intrusiones en la red, análisis basado en host y respuesta a incidentes.
-
+- **CyberOps Associate (Analista SOC)** — Cisco Networking Academy *(en curso)*. Monitoreo de seguridad, análisis de intrusiones en la red, análisis basado en host y respuesta a incidentes.
 ### Proyectos
 <div align="center">
 <a href="https://github.com/SebastianCabrera1902/utn-conecta">
