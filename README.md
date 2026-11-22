@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=520&lines=Estudiante+de+Programación+·+UTN+FRT;Camino+a+DevOps+.NET;C%23+·+.NET+·+TypeScript+·+SQL" />
 
 <a href="https://www.linkedin.com/in/fernando-sebastian-cabrera-a1499a222/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="cabrerafernandosebastian20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:cabrerafernandosebastian20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
