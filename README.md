@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=170&section=header&text=Sebasti%C3%A1n%20Cabrera&fontColor=ffffff&fontSize=42&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=600&lines=Estudiante+de+Programaci%C3%B3n+%7C+UTN+FRT;Backend+.NET+con+foco+en+seguridad;Analista+SOC+en+formaci%C3%B3n;Redes+%7C+Linux+%7C+Docker+%7C+Cloud" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=600&lines=Estudiante+de+Programaci%C3%B3n+%7C+UTN+FRT;Backend+.NET+con+foco+en+seguridad;Analista+SOC+en+formaci%C3%B3n;OSINT+%7C+Redes+%7C+Linux+%7C+Docker" />
 
 <a href="https://www.linkedin.com/in/fernando-sebastian-cabrera-a1499a222/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:cabrerafernandosebastian20@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -12,7 +12,9 @@
 ### Sobre mí
 - Estudio la Tecnicatura Universitaria en Programación en la UTN FRT (Tucumán).
 - Desarrollo backend con .NET y me interesa construir sistemas seguros: autenticación, permisos y validación de datos.
-- Me estoy formando como analista SOC: monitoreo, detección y respuesta a incidentes de seguridad.
+- Me estoy formando como analista SOC (Blue Team): monitoreo, detección y respuesta a incidentes.
+- También me interesan las redes y la investigación OSINT.
+
 ### Stack
 <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,nodejs,postgres,git,github,vscode" />
 
@@ -24,7 +26,8 @@
 <img src="https://img.shields.io/badge/🌐_Redes-2c5364?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🔎_OSINT-1f6feb?style=for-the-badge" />
 
-- **CyberOps Associate (Analista SOC)** — Cisco Networking Academy *(en curso)*. Monitoreo de seguridad, análisis de intrusiones en la red, análisis basado en host y respuesta a incidentes.
+- **CyberOps Associate — Cisco Networking Academy** *(en curso)*. Fundamentos de monitoreo SOC, análisis de intrusiones en redes y hosts, y respuesta a incidentes.
+
 ### Proyectos
 <div align="center">
 <a href="https://github.com/SebastianCabrera1902/utn-conecta">
