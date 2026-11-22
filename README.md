@@ -6,6 +6,10 @@
 
 Camino a DevOps .NET
 
+<a href="https://www.linkedin.com/in/fernando-sebastian-cabrera-a1499a222/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+
 ### Stack
 <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,nodejs,sqlite,docker,git,github,vscode" />
 
