@@ -17,8 +17,8 @@
 ### Stack
 <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,nodejs,sqlite,git,github,vscode" />
 
-### Aprendiendo1
-<img src="https://skillicons.dev/icons?i=docker,azure,githubactions,linux" />
+### Aprendiendo
+<img src="https://skillicons.dev/icons?i=docker,azure,linux" />
 
 ### Proyectos
 <a href="https://github.com/SebastianCabrera1902/sistema-comercial">
